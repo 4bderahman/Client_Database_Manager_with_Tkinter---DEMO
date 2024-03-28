@@ -10,9 +10,6 @@ This Python script provides a Graphical User Interface (GUI) for managing client
 - **Sample Data**: Sample client data is included for demonstration purposes.
 - **Refresh**: Users can refresh the table view to reflect any changes made to the database.
 
-## Screenshots
-![Screenshot](Screenshot.png)
-
 ## Requirements
 - Python 3.x
 - Tkinter (included in standard Python library)
